@@ -1,0 +1,35 @@
+header {
+container {
+navbar-collapse-secondary {
+h-4
+paragraph-lead
+}
+}
+}
+br
+section-py-5-bg-light {
+container-px-5-my-5 {
+row-gx-5-align-items-center {
+col-lg-6 {
+img-fluid-rounded-mb-5-mb-lg-0
+}
+col-lg-6 {
+h2-fw-bolder
+paragraph-lead-long
+}
+}
+}
+}
+section-py-5 {
+container-px-5-my-5 {
+row-gx-5-align-items-center {
+col-lg-6-order-first-order-lg-last {
+img-fluid-rounded-mb-5-mb-lg-0
+}
+col-lg-6 {
+h2-fw-bolder
+paragraph-lead-long
+}
+}
+}
+}

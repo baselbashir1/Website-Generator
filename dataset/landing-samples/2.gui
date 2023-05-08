@@ -1,0 +1,14 @@
+container{
+row-gx-5{
+col-lg-6{
+position-relative-mb-5{
+img-fluid-rounded-3-mb-3
+}
+}
+col-lg-6{
+position-relative-mb-5{
+img-fluid-rounded-3-mb-3
+}
+}
+}
+}
